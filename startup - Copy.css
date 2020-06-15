@@ -1,0 +1,22 @@
+body{
+ background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRW9r_TuHJkjw7gy8BlqISi_IbFDHnUjanleRH3qA0Q-aowmB1N&usqp=CAU);
+ background-size: cover;
+}
+.first{
+	color:#E4E4E4;
+}
+h4{
+	color:#53387A;
+	text-align: center;
+	font-family:  'Anton', sans-serif;
+	border-bottom: 4px solid grey;
+	border-right: 4px solid grey;
+	border-left: 4px solid grey;
+	border-top: 4px solid grey;
+	width: 170px;
+	text-align: center;
+	box-shadow: 4px 4px 5px #E0C09F;
+	position: relative;
+	margin-top: 10px;
+	cursor:pointer;
+}
